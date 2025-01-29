@@ -29,5 +29,5 @@ O propósito no desenvolvimento das 2 páginas web foi praticar os conceitos adq
 
 <h1> ✔️ Onde acessar a aplicação </h1>
 
-A aplicação poderá ser acessada através do link: .
+A aplicação poderá ser acessada através do link: https://portfolio-tau-self-47.vercel.app.
 
